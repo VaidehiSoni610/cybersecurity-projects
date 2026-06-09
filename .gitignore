@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+baseline_hashes.json
+*.log
+.DS_Store
+Thumbs.db
